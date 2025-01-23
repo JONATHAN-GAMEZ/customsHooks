@@ -1,7 +1,7 @@
 # Repositorio custom hooks
 
-## Counter hook
+## Counter Hook
 
-## Forms hooks
+## Forms Hook
 
-## Fetch hooks
+## Fetch Hook
